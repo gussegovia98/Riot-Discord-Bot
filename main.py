@@ -3,7 +3,7 @@ import pandas as pd
 
 
 def riothandler():
-    api_key = 'RGAPI-8a00b272-6bd0-4972-acf6-ee9dc99115eb'
+    api_key = 'RGAPI-c296d748-27a8-4992-9141-487bde22f1c3'
     watcher = LolWatcher(api_key)
     my_region = 'na1'
 
